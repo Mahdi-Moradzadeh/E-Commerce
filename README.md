@@ -18,6 +18,7 @@ To install necessary dependencies, run the following command:
 npm install
 ```
 
+
 You may also need to run the following command to create the database:
 
 ```
@@ -32,6 +33,12 @@ source ./db/schema.sql;
 then
 ```
 quit;
+```
+
+then run the following command on your terminal:
+
+```
+node seeds/index.js
 ```
 
 You will also need to create a .env file with the following information:
