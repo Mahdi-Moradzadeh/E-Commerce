@@ -57,7 +57,7 @@ npm start
 ```
 
 ## Walkthrough
-[![Walkthrough Video](https://img.youtube.com/vi/3Q8Q1Z6q3ZM/0.jpg)](www.google.com)
+[![Walkthrough Video](https://img.youtube.com/vi/3Q8Q1Z6q3ZM/0.jpg)](https://drive.google.com/file/d/1Cv5KxWhQ55auzx5AVLIcB6DMFmzYljox/view?usp=drive_link)
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at <a href="mailto:morad97mm@gmail.com">myEmail</a>. You can find more of my work at [MyGitHub](https://github.com/Mahdi-Moradzadeh).
